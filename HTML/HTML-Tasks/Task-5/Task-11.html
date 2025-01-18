@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 11</title>
+    <style>
+        body {
+            background-color: #545497;
+            color: whitesmoke;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        div {
+            text-align: center;
+        }
+
+        form {
+            color: whitesmoke;
+            background-color: #262646;
+            border: 1px solid #262646;
+            border-radius: 5px;
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        input:not([type="radio"]):not([type="checkbox"]),
+        textarea,
+        select {
+            width: 100%;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            border-color: transparent;
+            border-radius: 5px;
+        }
+
+        input[type="submit"] {
+            background-color: green;
+            border-color: transparent;
+            color: whitesmoke;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Amman Coding Academy Survey Form</h3>
+        <h5>Thank you for taking the time to help</h5>
+    </div>
+    
+    <form>
+        <label for="personName">Name</label> <br>
+        <input type="text" name="personName" id="personName"> <br>
+
+        <label for="email">Email</label> <br>
+        <input type="email" name="email" id="email"> <br>
+        
+        <label for="age">Age (optional)</label> <br>
+        <input type="text" name="age" id="age"> <br>
+
+        <label for="select">How did you like my survey</label> <br>
+        <select name="select" id="select">
+            <option value="select">How did you like my survey</option>
+            <option value="excellent">Excellent</option>
+            <option value="verygood">Very Good</option>
+            <option value="good">Good</option>
+            <option value="poor">Poor</option>
+            <option value="verypoor">Very Poor</option>
+        </select> <br>
+
+        <label for="recommend">Would you recommend my pen to a friend</label> <br>
+        <input type="radio" name="definitely" id="definitely">
+        <label for="definitely">Definitely</label> <br>
+
+        <input type="radio" name="maybe" id="maybe">
+        <label for="maybe">Maybe</label> <br>
+
+        <input type="radio" name="notsure" id="notsure">
+        <label for="notsure">Not Sure</label> <br>
+
+        <label for="select">What is your favourite feature of codpen</label> <br>
+        <select name="select" id="select">
+            <option value="select">Select an option</option>
+            <option value="excellent">Excellent</option>
+            <option value="verygood">Very Good</option>
+            <option value="good">Good</option>
+            <option value="poor">Poor</option>
+            <option value="verypoor">Very Poor</option>
+        </select> <br>
+
+        <label for="recommend">What would you like to be improved in my survey? (Check all that apply)</label> <br>
+        <input type="checkbox" name="css" id="css">
+        <label for="css">CSS needs to be more complex</label> <br>
+
+        <input type="checkbox" name="js" id="js">
+        <label for="js">Javascript to be more complex</label> <br>
+
+        <input type="checkbox" name="nothing" id="nothing">
+        <label for="nothing">No changes required</label> <br>
+
+        <label for="suggestions">Any comments or suggestions?</label> <br>
+        <textarea type="text" name="suggestions" id="suggestions"></textarea> <br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

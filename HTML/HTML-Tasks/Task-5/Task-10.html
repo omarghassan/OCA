@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 10</title>
+    <style>
+        .button {
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <form>
+            <table border="1">
+                <tr>
+                    <th colspan="2">Registration Form</th>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="personName">Enter Name</label>
+                    </td>
+                    <td>
+                        <input type="text" name="personName" id="personName">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="password">Password</label>
+                    </td>
+                    <td>
+                        <input type="password" name="password" id="password">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="address">Enter Address</label>
+                    </td>
+                    <td>
+                        <textarea name="address" id="address" rows="5"></textarea>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="gameSelection">Select Game</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="hockey" id="hockey">
+                        <label for="hockey">Hockey</label> <br>
+
+                        <input type="checkbox" name="football" id="football">
+                        <label for="football">Football</label> <br>
+
+                        <input type="checkbox" name="badminton" id="badminton">
+                        <label for="badminton">Badminton</label> <br>
+
+                        <input type="checkbox" name="cricket" id="cricket">
+                        <label for="cricket">Cricket</label> <br>
+
+                        <input type="checkbox" name="volleyball" id="volleyball">
+                        <label for="volleyball">Volleyball</label> <br>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <input type="radio" name="male" id="male" value="Male">
+                        <label for="male">Male</label>
+
+                        <input type="radio" name="female" id="female" value="Female">
+                        <label for="female">Female</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="age">Select Your Age</label>
+                    </td>
+                    <td>
+                        <select name="age" id="age">
+                            <option value="select">Select</option>
+                            <option value="24">24</option>
+                            <option value="25">25</option>
+                            <option value="26">26</option>
+                            <option value="27">27</option>
+                            <option value="28">28</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="photo">Select Photo</label>
+                    </td>
+                    <td>
+                        <input type="file" name="photo" id="photo">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input class="button" type="button" value="Click Me">
+                        <input class="button" type="reset" value="Reset">
+                        <input class="button" type="submit" value="Submit Form">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+
+</html>
