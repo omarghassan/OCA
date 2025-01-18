@@ -1,0 +1,44 @@
+h3 {
+    margin-top: 15px;
+}
+
+.div1 {
+    width: 50%;
+    height: 100px;
+    background-color: orangered;
+    overflow: visible; /* It is visible by default */
+    border: 1px solid black;
+    margin-top: 5px;
+}
+
+.div2 {
+    width: 50%;
+    height: 100px;
+    color: whitesmoke;
+    background-color: black;
+    overflow: hidden;
+}
+
+.div3 {
+    width: 50%;
+    height: 100px;
+    background-color: royalblue;
+    overflow: scroll;
+}
+
+.div4 {
+    width: 50%;
+    height: 100px;
+    color: whitesmoke;
+    background-color: palevioletred;
+    overflow: auto;
+}
+
+.div5 {
+    width: 50%;
+    height: 100px;
+    color: whitesmoke;
+    background-color: black;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}

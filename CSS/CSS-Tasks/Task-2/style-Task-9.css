@@ -1,0 +1,23 @@
+h1 {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.div1 {
+    width: 400px;
+    height: 150px;
+    overflow: scroll;
+}
+
+.div2 h3 {
+    color: red;
+    font-style: italic;
+}
+
+.div2 img {
+    width: 50%;
+}
+
+.amblyobia {
+    opacity: 50%;
+}

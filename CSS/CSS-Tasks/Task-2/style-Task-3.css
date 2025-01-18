@@ -1,0 +1,15 @@
+div {
+    width: 45%;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}

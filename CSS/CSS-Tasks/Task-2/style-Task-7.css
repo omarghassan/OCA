@@ -1,0 +1,37 @@
+h3 {
+    color: red;
+}
+
+.p1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.p2 {
+    background-color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: royalblue;
+    font-weight: thin;
+    text-align: center;
+}
+
+.p3 {
+    color: pink;
+    text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
+}
+
+.p4 {
+    color: orangered;
+    text-align: right;
+    text-decoration: line-through;
+}
+
+.p5 {
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-style: italic;
+}
