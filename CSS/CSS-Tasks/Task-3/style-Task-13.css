@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    text-align: center;
+}
+
+.div1 h1 {
+    color: red;
+}
+
+.div2 {
+    background-color: darkred;
+    text-align: center;
+    padding: 15px;
+    padding-top: 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.div2 nav {
+    padding-top: 15px;
+}
+.div2 nav a {
+    padding-top: 5px;
+    margin-right: 20px;
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+
+.div2 img {
+    width: 15%;
+}
+
+.div3 {
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/021/428/962/non_2x/background-junk-food-related-seamless-pattern-and-background-editable-stroke-fast-food-line-art-of-hamburger-pizza-hot-dog-beverage-cheeseburger-restaurant-menu-background-free-vector.jpg);
+    background-size: contain;
+}
+
+.div3 .cards {
+    display: flex;
+    justify-content: center;
+}
+
+.div3 .cards .p1 {
+    /* width: 100px;
+    height: 100px; */
+    margin: 15px;
+    background-image: url(https://c8.alamy.com/comp/2C88MEK/fast-food-background-of-delicious-fast-food-2C88MEK.jpg);
+    background-size: contain;
+}
+
+.div3 button {
+    background-color: green;
+    padding: 15px;
+}
+
+.div3 a {
+    color: whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}

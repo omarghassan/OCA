@@ -1,0 +1,7 @@
+.box {
+    text-align: justify;
+    padding: 15px;
+    width: 50%;
+    border: 2px solid black;
+    box-shadow: 5px 7px 5px 7px;
+}

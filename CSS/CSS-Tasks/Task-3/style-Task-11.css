@@ -1,0 +1,34 @@
+p {
+    padding: 15px;
+    text-align: justify;
+}
+
+.p1 {
+    border-width: 5px;
+    border-style: dashed solid;
+}
+
+.p2 {
+    border-width: 5px;
+    border-style: solid solid dashed dotted;
+}
+
+.p3 {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.p4 {
+    border: 5px solid black;
+}
+
+.p5 {
+    border: 5px solid darkred;
+}
+
+.p6 {
+    border: 5px solid royalblue;
+    border-right: 5px solid black;
+    border-bottom: 5px dotted royalblue;
+}

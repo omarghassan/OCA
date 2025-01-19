@@ -1,0 +1,8 @@
+.p1 {
+    border: 3px ridge black;
+    background-color: gold;
+    text-align: justify;
+    padding: 15px;
+    margin: 25px auto;
+    width: 70%;
+}

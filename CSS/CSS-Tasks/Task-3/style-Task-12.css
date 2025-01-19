@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+.p1 img {
+    width: 50%;
+    border: 15px inset darkgoldenrod;
+}
+
+.p2 {
+    width: 50%;
+    height: 150px;
+    padding: 15px;
+    overflow: scroll;
+    text-align: justify;
+    background-color: brown;
+    color: whitesmoke;
+    border: 15px dashed gold;
+}
