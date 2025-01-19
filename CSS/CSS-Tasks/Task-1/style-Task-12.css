@@ -1,0 +1,6 @@
+div {
+    background: linear-gradient(20deg, #1f1f7a 0%, #80005a 25%, #d4ff00 50%, #05c605 100%);
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+}

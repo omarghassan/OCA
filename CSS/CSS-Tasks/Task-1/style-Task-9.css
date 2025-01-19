@@ -1,0 +1,43 @@
+h1 {
+    color: darkgreen;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    padding: 20px;
+}
+.p1 {
+    color: aqua;
+    text-decoration: underline;
+}
+
+#p2 {
+    color: black;
+    background-color: darkred;
+}
+
+.p3 {
+    background-color: darkcyan;
+}
+
+.p3 .red {
+    color: red;
+}
+
+.p3 .blue {
+    color: blue;
+}
+
+.p4 {
+    background-color: palevioletred;
+    text-align: center;
+}
+
+.p4 .even {
+    color: red;
+}
+
+.p4 .odd {
+    color: black;
+}

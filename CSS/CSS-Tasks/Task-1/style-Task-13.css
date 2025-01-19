@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+}
+
+tr {
+    background-color: lightskyblue;
+}
+
+.thead {
+    background-color: antiquewhite;
+    color: red;
+    font-size: 25px;
+}
+.button {
+    padding: 15px;
+}

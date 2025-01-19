@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+.p1 {
+    color: red;
+}
+
+.p2 .cat-img {
+    width: 50%;
+    border: 5px solid black;
+    border-radius: 70%;
+}
+
+.cat-img {
+    width: 50%;
+}
+.p3 {
+    padding: 10px;
+    background-color: grey;
+}
+
+.p4 {
+    background-color: darkgreen;
+}

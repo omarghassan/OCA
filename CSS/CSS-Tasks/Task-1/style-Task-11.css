@@ -1,0 +1,24 @@
+form {
+    background-color: rgb(242, 231, 171);
+    margin: auto;
+    border: 5px solid black;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+form h1 {
+    color: whitesmoke;
+    background-color: tomato;
+    padding: 15px;
+    text-align: center;
+}
+
+form input, textarea {
+    width: 98%;
+}
+
+form input[type="submit"] {
+    padding: 15px;
+    background-color: gold;
+}

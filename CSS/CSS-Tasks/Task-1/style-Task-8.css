@@ -1,0 +1,25 @@
+body {
+    background-color: darkred;
+}
+
+p {
+    padding: 15px;
+    text-align: justify;
+}
+.p1 {
+    color: red;
+    background-color: bisque;
+}
+
+.p2 {
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zMDktYWV3LTAxM18xXzEuanBn.jpg);
+    color: whitesmoke;
+}
+
+.p3 {
+    color: whitesmoke;
+    background-image: url(Assets/dark-background-4K.png), url(https://img.goodfon.com/original/1920x1200/b/2c/priroda-pirs-most-re-reka.jpg);
+    background-size: 50%, 50%;
+    background-repeat: no-repeat;
+    background-position: left top, right bottom;
+}

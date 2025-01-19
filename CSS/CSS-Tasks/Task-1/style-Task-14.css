@@ -1,0 +1,9 @@
+body {
+    background: 
+        url(Assets/dark-background-4K.png) repeat-y,
+        url(https://img.goodfon.com/original/1920x1200/b/2c/priroda-pirs-most-re-reka.jpg) repeat-x;
+    background-size: 50% 50%;
+    background-repeat: no-repeat, ;
+    background-position: left top, right bottom;
+    color: royalblue;
+}

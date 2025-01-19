@@ -1,0 +1,20 @@
+p {
+    padding: 20px;
+    font-size: 25px;
+}
+
+.blue {
+    background-color: lightskyblue;
+}
+
+.pink {
+    background-color: palevioletred;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.even {
+    background-color: whitesmoke;
+}

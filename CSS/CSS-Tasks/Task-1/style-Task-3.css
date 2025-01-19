@@ -1,0 +1,12 @@
+.div1 {
+    color: yellow;
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+.span1 {
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
