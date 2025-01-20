@@ -1,0 +1,39 @@
+.div1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: darkblue;
+    width: 250px;
+    height: 250px;
+    color: whitesmoke;
+}
+
+.div2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: darkred;
+    width: 250px;
+    height: 250px;
+    color: whitesmoke;
+}
+
+.div3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: lightskyblue;
+    width: 250px;
+    height: 250px;
+    color: whitesmoke;
+}
+
+.div4 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: royalblue;
+    width: 250px;
+    height: 250px;
+    color: whitesmoke;
+}
