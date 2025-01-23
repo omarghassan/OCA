@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    background-color: black;
+}
+
+/* .navbar {
+    display: flex;
+    background-color: black;
+} */
+
+.links {
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.portfolio {
+    align-self: flex-end;
+}

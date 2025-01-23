@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 10px;
+}
+
+.container > div {
+    background-color: lightcoral;
+    padding: 10px;
+}

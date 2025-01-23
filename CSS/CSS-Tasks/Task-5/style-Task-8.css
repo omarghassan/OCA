@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+}
+
+.items {
+    padding: 15px;
+}
+
+.item1 {
+    background-color: royalblue;
+    flex-grow: 2;
+}
+
+.item2 {
+    background-color: gold;
+    flex-grow: 1;
+}

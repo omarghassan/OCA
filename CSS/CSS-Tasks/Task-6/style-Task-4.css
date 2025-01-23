@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.imgs {
+    position: relative;
+    width: 80vw;
+
+    img {
+        width: 100%;
+    }
+
+    .captions {
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        background-color: whitesmoke;
+        opacity: 75%;
+        padding: 5px;
+    }
+}

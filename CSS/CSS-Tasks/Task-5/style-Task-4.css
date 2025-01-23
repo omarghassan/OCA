@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+
+.container > div {
+    background-color: royalblue;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    padding: 15px;
+}

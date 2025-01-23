@@ -1,0 +1,32 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    grid-template-rows: repeat(11, 1fr);
+    height: 500px;
+}
+
+.boxes {
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.box1 {
+    background-color: darkred;
+    opacity: 50%;
+    grid-column: 2 / 6;
+    grid-row: 1 / 7;
+    z-index: 3;
+}
+
+.box2 {
+    background-color: green;
+    opacity: 50%;
+    grid-area: 5 / 4 / 11 / 8;
+    z-index: 2;
+}
+
+.box3 {
+    background-color: blue;
+    opacity: 50%;
+    grid-area: 3 / 3 / 9 / 7;
+}

@@ -1,0 +1,14 @@
+body {
+    background-color: royalblue;
+}
+
+.container {
+    display: flex;
+}
+
+.divs {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+}

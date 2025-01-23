@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    border: 2px solid black;
+}
+
+.items {
+    color: whitesmoke;
+    font-size: 30px;
+    height: 100px;
+    padding: 10px;
+}
+
+.item1 {
+    margin-top: 35px;
+    background-color: green;
+    font-size: 10px;
+    height: 20px;
+}
+
+.item2 {
+    background-color: lightblue;
+}
+
+.item3 {
+    background-color: lightcoral;
+}
+
+.item4 {
+    background-color: royalblue;
+    height: 90vh;
+}
+
+.item5 {
+    background-color: gold;
+    height: 10px;
+    font-size: 10px;
+    align-self: center;
+}
+
+.item6 {
+    background-color: orange;
+}
+
+.item7 {
+    background-color: darkred;
+}
+
+.item7 {
+    background-color: red;
+}
+
+.item8 {
+    background-color: navy;
+}
+
+.item9 {
+    background-color: gray;
+}
+
+.item10 {
+    background-color: darkcyan;
+    align-self: flex-end;
+    height: 50px;
+}

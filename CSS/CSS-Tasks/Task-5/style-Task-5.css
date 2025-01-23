@@ -1,0 +1,21 @@
+.container {
+    margin: auto;
+    padding: 5px;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+    justify-content: center;
+    border: 1px solid royalblue;
+}
+
+.items {
+    background-color: lightblue;
+    padding: 10px;
+
+}
+
+.row-3 {
+    padding-right: 20px;
+}

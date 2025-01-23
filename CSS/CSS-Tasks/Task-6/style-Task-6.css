@@ -1,0 +1,21 @@
+body {
+    background-color: darkred;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+}
+
+.items {
+    background-color: goldenrod;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.item3 {
+    grid-column: 1 / 9;
+    grid-row: 4 / 5;
+}

@@ -1,0 +1,11 @@
+div {
+    width: 50%;
+    border: 2px solid lightskyblue;
+    justify-content: center;
+    display: flex;
+}
+
+p {
+    background-color: royalblue;
+    padding: 10px;
+}
