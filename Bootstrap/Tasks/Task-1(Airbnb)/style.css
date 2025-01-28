@@ -1,0 +1,27 @@
+img {
+    border-radius: 5px;
+}
+
+span {
+    display: block;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.footer-sites {
+    text-decoration: none;
+}
+
+li span img {
+    width: 30%;
+}
+
+li span {
+    text-align: center;
+}
+
+.logo {
+    width: 10%;
+}
