@@ -1,0 +1,21 @@
+
+form {
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+}
+
+form .label, form input, button{
+    display: block;
+    margin: 10px;
+}
+
+.label {
+    color: darkred;
+}
+
+p {
+    color: red;
+    margin: 10px;
+
+}

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "50df",
+      "userName": "omar",
+      "age": "21",
+      "address": "amman",
+      "email": "omar@omar.co"
+    },
+    {
+      "id": "732e",
+      "userName": "omar",
+      "age": "21",
+      "address": "amman",
+      "email": "omar@omar.co"
+    },
+    {
+      "id": "afaa",
+      "userName": "omar",
+      "age": "21",
+      "address": "amman",
+      "email": "omar@omar.co"
+    },
+    {
+      "id": "99f4",
+      "userName": "ahmad",
+      "age": "24",
+      "address": "amman",
+      "email": "ahmad@ahmad.com"
+    },
+    {
+      "id": "9d2a",
+      "userName": "flan",
+      "age": "24",
+      "address": "irbid",
+      "email": "flan@email.com"
+    },
+    {
+      "id": "3c3c",
+      "userName": "flan",
+      "age": "24",
+      "address": "irbid",
+      "email": "flan@email.com"
+    }
+  ]
+}
