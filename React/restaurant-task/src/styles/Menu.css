@@ -1,0 +1,18 @@
+
+.page-title {
+    margin: 25px;
+}
+
+.card-image {
+    height: 275px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-body {
+    height: 253px;
+}
+
+.description {
+    font-size: 15px;
+}

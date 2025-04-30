@@ -1,0 +1,204 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Classic Cheeseburger",
+            "price": 12.99,
+            "category": "Burgers",
+            "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and our special sauce on a toasted brioche bun.",
+            "img": "https://www.redefinemeat.com/uk/wp-content/uploads/sites/4/2024/08/Retail_Recipe_Photoshoot_Premium-Burgers_Plain-1-scaled-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Margherita Pizza",
+            "price": 14.50,
+            "category": "Pizza",
+            "description": "Traditional pizza with fresh mozzarella, tomatoes, and basil on a thin, crispy crust.",
+            "img": "https://cookingitalians.com/wp-content/uploads/2024/11/Margherita-Pizza.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Caesar Salad",
+            "price": 9.99,
+            "category": "Salads",
+            "description": "Crisp romaine lettuce tossed with Caesar dressing, parmesan cheese, and house-made croutons.",
+            "img": "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw92573286/images/recipe-Images/classic-caesar-salad-recipe.jpg?sw=1200&sh=1200&sm=fit"
+        },
+        {
+            "id": 4,
+            "name": "Spaghetti Carbonara",
+            "price": 16.50,
+            "category": "Pasta",
+            "description": "Al dente spaghetti with a creamy sauce made from eggs, pecorino romano, pancetta, and black pepper.",
+            "img": "https://www.177milkstreet.com/assets/site/_large/Roman-Spaghetti-Carbonara-h.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Grilled Salmon",
+            "price": 22.99,
+            "category": "Seafood",
+            "description": "Fresh Atlantic salmon fillet, grilled to perfection and served with seasonal vegetables and lemon-herb butter.",
+            "img": "https://images.services.kitchenstories.io/AClZarUb5d05wXfSDBVTB8Zn2NY=/3840x0/filters:quality(80)/images.kitchenstories.io/wagtailOriginalImages/R3022-final-photo-3.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Vegetable Stir Fry",
+            "price": 13.99,
+            "category": "Vegetarian",
+            "description": "Fresh seasonal vegetables stir-fried with tofu in a savory ginger-soy sauce, served over steamed rice.",
+            "img": "https://www.allrecipes.com/thmb/Gaf03LzXPR7W9UiAZClE4FkxKYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Swanson-Chicken-and-Vegetable-Stir-Fry-4x3-1-2000-2c4a4b3d242f4cec86cd62a66863bcca.jpg"
+        },
+        {
+            "id": 7,
+            "name": "BBQ Chicken Wings",
+            "price": 11.99,
+            "category": "Wings and Ribs",
+            "description": "Crispy chicken wings coated in our house-made smoky BBQ sauce, served with celery sticks and blue cheese dip.",
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/038/970/648/small/ai-generated-grilled-chicken-wings-with-ketchup-and-sauces-on-a-wooden-board-traditional-baked-bbq-photo.jpg"
+        },
+        {
+            "id": 8,
+            "name": "New York Cheesecake",
+            "price": 8.50,
+            "category": "Desserts",
+            "description": "Creamy classic New York style cheesecake on a graham cracker crust, topped with berry compote.",
+            "img": "https://www.thespruceeats.com/thmb/HM3X8w38eMVo0Lejx4GLvGHZ4dM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-new-york-cheesecake-1450985-hero-01-dc54f9daf38044238b495c7cefc191fa.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Mushroom Risotto",
+            "price": 15.99,
+            "category": "Vegetarian",
+            "description": "Creamy Arborio rice slowly cooked with assorted wild mushrooms, and finished with parmesan cheese.",
+            "img": "https://realfood.tesco.com/media/images/1400X919-MUSHROOM-RISOTTO-BEST-218accb3-7505-4545-9479-56318cb6e950-0-1400x919.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Beef Tacos",
+            "price": 10.99,
+            "category": "Mexican",
+            "description": "Three soft corn tortillas filled with seasoned ground beef, lettuce, cheese, and pico de gallo.",
+            "img": "https://img.taste.com.au/Wr-TnKu1/w720-h480-cfill-q80/taste/2020/06/july20_fast-beef-tacos-162770-1.jpg"
+        },
+        {
+            "id": 11,
+            "name": "French Onion Soup",
+            "price": 7.99,
+            "category": "Soups",
+            "description": "Rich beef broth with caramelized onions, topped with a toasted baguette slice and melted gruyère cheese.",
+            "img": "https://realfood.tesco.com/media/images/472x310-Slow-cooker-French-onion-soup-ec93f167-f3b0-4f00-934c-09d0d9537795-0-472x310.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Chicken Alfredo",
+            "price": 17.50,
+            "category": "Pasta",
+            "description": "Fettuccine pasta tossed in a creamy Alfredo sauce with grilled chicken breast and fresh parsley.",
+            "img": "https://preppykitchen.com/wp-content/uploads/2023/02/Chicken-Alfredo-Recipe-Card.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Black Brisket Burger",
+            "price": 15.99,
+            "category": "Burgers",
+            "description": "Slow-smoked brisket topped with caramelized onions, melted cheddar cheese, and house BBQ sauce on a toasted black brioche bun.",
+            "img": "https://www.bigdogspices.com.au/wp-content/uploads/2023/11/bbq-beef-brisket-burger.webp"
+        },
+        {
+            "id": 14,
+            "name": "Shrimp Scampi",
+            "price": 19.99,
+            "category": "Seafood",
+            "description": "Succulent shrimp sautéed in garlic butter, and lemon juice, served over angel hair pasta.",
+            "img": "https://cdn.jwplayer.com/v2/media/hPcMnXp7/thumbnails/mCITeuJc.jpg?width=1280"
+        },
+        {
+            "id": 15,
+            "name": "Chocolate Lava Cake",
+            "price": 8.99,
+            "category": "Desserts",
+            "description": "Warm chocolate cake with a molten center, served with vanilla ice cream and a dusting of powdered sugar.",
+            "img": "https://www.ghirardelli.com/media/recipe/remote/wcsstore/GhirardelliCatalogAssetStore/Images/images/recipe-full-size/1074-individual-chocolate-lava-cakes.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Greek Salad",
+            "price": 10.50,
+            "category": "Salads",
+            "description": "Crisp cucumbers, tomatoes, red onion, Kalamata olives, and feta cheese tossed in olive oil and oregano.",
+            "img": "https://media.istockphoto.com/id/1461256163/photo/feta-cheese-salad-on-wooden-table.jpg?s=612x612&w=0&k=20&c=JISWAr9aTfUdLkgoR2rSWQN-ZzfQvOrhG9stauCUqSE="
+        },
+        {
+            "id": 17,
+            "name": "Pepperoni Pizza",
+            "price": 15.99,
+            "category": "Pizza",
+            "description": "Classic pizza topped with zesty tomato sauce, mozzarella cheese, and spicy pepperoni slices.",
+            "img": "https://www.moulinex-me.com/medias/?context=bWFzdGVyfHJvb3R8MTQzNTExfGltYWdlL2pwZWd8YUdObEwyaG1aQzh4TlRrMk9EWXlOVGM0TmpreE1DNXFjR2N8MmYwYzQ4YTg0MTgzNmVjYTZkMWZkZWZmMDdlMWFlMjRhOGIxMTQ2MTZkNDk4ZDU3ZjlkNDk2MzMzNDA5OWY3OA"
+        },
+        {
+            "id": 18,
+            "name": "Mushroom Swiss Burger",
+            "price": 14.99,
+            "category": "Burgers",
+            "description": "Juicy beef patty topped with sautéed mushrooms, melted Swiss cheese, and truffle aioli on a rustic artisan roll.",
+            "img": "https://olo-images-live.imgix.net/95/95c7531bc5e4411cacdd0be3e7b4f726.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=273df6a48e51d4c66f2532281731a6ac"
+        },
+        {
+            "id": 19,
+            "name": "Mozzarella Sticks",
+            "price": 8.99,
+            "category": "Appetizers",
+            "description": "Breaded mozzarella cheese sticks, fried until golden and crispy, served with marinara dipping sauce.",
+            "img": "https://www.allrecipes.com/thmb/BeV2hKihyqT4sQBI6h2fYp2KzuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23596-fried-mozzarella-cheese-sticks-DDMFS-4x3-842a0eaebf6b435a8d3a8b04325e13eb.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Smoked Beef Burger",
+            "price": 15.99,
+            "category": "Burgers",
+            "description": "House-smoked beef patty with beef bacon, smoked gouda cheese, grilled mushrooms, and smoky aioli served on a rustic artisan bun.",
+            "img": "https://www.certifiedangusbeef.com/_next/image?url=https%3A%2F%2Fappetizing-cactus-7139e93734.media.strapiapp.com%2FSmoked_Burgers_with_Coffee_Barbecue_Sauce_5dd25f1364.jpeg&w=3840&q=75"
+        },
+        {
+            "id": 21,
+            "name": "Tiramisu",
+            "price": 7.99,
+            "category": "Desserts",
+            "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream, dusted with cocoa.",
+            "img": "https://mediterraneantaste.com/wp-content/uploads/2023/11/tiramisu-4583.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Clam Chowder",
+            "price": 6.99,
+            "category": "Soups",
+            "description": "Creamy New England style soup with tender clams, potatoes, and bacon, served in a bread bowl.",
+            "img": "https://www.allrecipes.com/thmb/ElqwjwX_F7u9wPDB6dfHYxYmVCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13078-New-England-Clam-Chowder-DDMFS-3X4-0560-e9b8d6db885546538990735f2d4d2199.jpg"
+        },
+        {
+            "id": 23,
+            "name": "BBQ Ribs",
+            "price": 21.99,
+            "category": "Wings and Ribs",
+            "description": "Slow-cooked baby back ribs smothered in our signature BBQ sauce, served with coleslaw and fries.",
+            "img": "https://www.allrecipes.com/thmb/I2ENWJQG1mb2b5OSXPqQudzlzJw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220987-Baked-BBQ-Baby-Back-Ribs-mfs-041-77a42b0ce0f0424e9aeec2b22664f1aa.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Chicken Quesadilla",
+            "price": 12.50,
+            "category": "Mexican",
+            "description": "Grilled flour tortilla filled with seasoned chicken, melted cheese, and sautéed peppers and onions.",
+            "img": "https://www.allrecipes.com/thmb/qX33KNwobIQ742FAouPjBbsgH4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21659-Chicken-Quesadillas-DDMFS-3291-4x3-Beauty-8849a09057d34cde9bad913783262833.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Apple Pie",
+            "price": 7.50,
+            "category": "Desserts",
+            "description": "Traditional apple pie with a flaky crust, filled with cinnamon-spiced apples and served warm with ice cream.",
+            "img": "https://www.shutterstock.com/image-photo/apple-pie-baked-dessert-spiced-600nw-2539026719.jpg"
+        }
+    ]
+}
